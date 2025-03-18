@@ -29,8 +29,8 @@ Bring the sleek and stylish macOS cursors to your Windows PC! This pack is optim
 If you like this pack, consider supporting via **YooMoney**.  
 
 ## 👤 Authors  
-- **antiden - coderteam** (Development)  
-- **Vector icons by antiden**  
+- **Anonymous-silva** (Development)  
+- **Vector icons by Anonymous-silva**  
 
 ## 📜 License  
 This software is distributed under the **Apple User Agreement** and licensed under the **MIT License**. See the [`LICENSE.md`](LICENSE.md) file for details.  
