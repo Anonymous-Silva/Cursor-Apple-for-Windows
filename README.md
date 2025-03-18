@@ -1,4 +1,4 @@
-# macOS  Cursors MegaPack for Windows  
+# macOS Cursors MegaPack for Windows  
 
 Bring the sleek and stylish macOS cursors to your Windows PC! This pack is optimized for **4K resolution (3840 x 2160 pixels)**, offering a smooth and authentic macOS experience.  
 
