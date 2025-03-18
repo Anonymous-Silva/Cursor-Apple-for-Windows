@@ -20,9 +20,8 @@ Bring the sleek and stylish macOS cursors to your Windows PC! This pack is optim
 
 ## 🔧 Installation Instructions  
 1. Select the folder with your preferred style and size.  
-2. Right-click the `Install.inf` file and select **"Install"**.  
-3. Confirm the installation when prompted.  
-4. The **Mouse Properties** menu will open automatically. Click **"OK"** to apply.  
+2. Right-click the `folder` file and select **"unzip"**.  
+3. The **Mouse Properties** menu will open automatically. Click **"OK"** to apply.  
 5. Done! Enjoy the macOS cursor experience on Windows.  
 
 ## ❤️ Support the Project  
