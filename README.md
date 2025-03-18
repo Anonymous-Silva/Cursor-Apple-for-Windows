@@ -2,7 +2,7 @@
 
 Bring the sleek and stylish macOS cursors to your Windows PC! This pack is optimized for **4K resolution (3840 x 2160 pixels)**, offering a smooth and authentic macOS experience.  
 
-![Preview](https://github.com/Anonymous-Silva/Cursor-Apple-for-Windows/blob/main/macOSCursorsMegapackforWindows.png)
+![Preview](https://imgur.com/a/HsLIMFZ)
 
 
 ## 🖱️ Versions Available  
