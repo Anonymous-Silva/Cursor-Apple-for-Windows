@@ -26,6 +26,7 @@ Bring the sleek and stylish macOS cursors to your Windows PC! This pack is optim
 
 ## ❤️ Support the Project  
 If you like this pack, consider supporting via **YooMoney**.  
+# 4100119089601174
 
 ## 👤 Authors  
 - **Anonymous-silva** (Development)  
